@@ -5,10 +5,16 @@
 
 int main()
 {
-    std::cin >> "Start testing now\n";
-    std::cout << "Start testing now\n";
-}
+    int a;
+    int b;
 
+    std::cout << "Input value\n";
+    std::cin >> a;
+
+    b = a * a;
+
+    std::cout << "Result is " << b << "\n";
+}
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
