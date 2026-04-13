@@ -5,6 +5,7 @@
 
 int main()
 {
+    std::cin >> "Start testing now\n";
     std::cout << "Start testing now\n";
 }
 
