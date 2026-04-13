@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Start testing\n";
+    std::cout << "Start testing now\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
